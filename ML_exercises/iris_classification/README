@@ -1,0 +1,15 @@
+IRIS Classification Problem
+----
+
+. 03 classes
+. sample with 150 data points
+. 04 features
+. data and label is a numpy matrix
+
+Fist exercises:
+    . keys
+    . rows-columns
+    . feature names
+    . description iris data
+
+
